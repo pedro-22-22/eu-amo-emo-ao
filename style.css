@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    background-color: oklch(45.9% 0.187 3.815);
+    background-color: oklch(64.797% 0.17422 42.446);
     position: fixed;
     width: 100%;
     z-index: 10;
@@ -27,7 +27,7 @@ header {
     margin-inline: auto;
     text-align: center;
     padding-block: 2rem;
-    color: #FFF;
+    color: #c56308;
 
     h1 {
         margin-bottom: 1rem;
@@ -53,7 +53,7 @@ header {
 }
 
 main {
-    background-color: oklch(94.1% 0.03 12.58);
+    background-color: oklch(44.977% 0.16948 25.038);
     min-height: calc(100svh - 10.8px);
 }
 
